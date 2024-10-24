@@ -1,0 +1,26 @@
+1.User Authentication
+2.Income 
+3.Home Screen showing Income expenditure and saving in Horizonal overlapping graph
+4.Add Transaction
+{
+Type(Expense,Income,Transfer,ATM withdrawl,Cash Received,Refund)
+}
+4.Catagory of expense
+{
+Bill
+Dining 
+Education
+EMI
+Fuel
+Gadget
+Groceries
+Grooming
+Health
+Household 
+HouseRent
+Investment 
+Leisure
+Office
+Shopping
+Other 
+}
